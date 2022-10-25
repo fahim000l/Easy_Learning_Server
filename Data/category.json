@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01",
+        "name": "Basic Science"
+    },
+    {
+        "id": "02",
+        "name": "Data Science"
+    },
+    {
+        "id": "03",
+        "name": "Web Development"
+    },
+    {
+        "id": "04",
+        "name": "Microsoft Office"
+    },
+    {
+        "id": "05",
+        "name": "Software Development"
+    },
+    {
+        "id": "06",
+        "name": "Embeded System"
+    },
+    {
+        "id": "07",
+        "name": "All Cources"
+    }
+]
