@@ -1,7 +1,7 @@
 [
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "01",
+        "category_id": "1",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -18,7 +18,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "01",
+        "category_id": "1",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -35,7 +35,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "01",
+        "category_id": "1",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -52,7 +52,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "01",
+        "category_id": "1",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -69,7 +69,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "01",
+        "category_id": "1",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -86,7 +86,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "01",
+        "category_id": "1",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -103,7 +103,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "02",
+        "category_id": "2",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -121,7 +121,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "02",
+        "category_id": "2",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -138,7 +138,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "02",
+        "category_id": "2",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -155,7 +155,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "02",
+        "category_id": "2",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -172,7 +172,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "02",
+        "category_id": "2",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -189,7 +189,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "02",
+        "category_id": "2",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -206,7 +206,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "03",
+        "category_id": "3",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -223,7 +223,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "03",
+        "category_id": "3",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -240,7 +240,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "03",
+        "category_id": "3",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -257,7 +257,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "03",
+        "category_id": "3",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -274,7 +274,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "03",
+        "category_id": "3",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -291,7 +291,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "03",
+        "category_id": "3",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -308,7 +308,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "04",
+        "category_id": "4",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -325,7 +325,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "04",
+        "category_id": "4",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -342,7 +342,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "04",
+        "category_id": "4",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -359,7 +359,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "04",
+        "category_id": "4",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -376,7 +376,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "04",
+        "category_id": "4",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -393,7 +393,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "04",
+        "category_id": "4",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -410,7 +410,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "05",
+        "category_id": "5",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -427,7 +427,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "05",
+        "category_id": "5",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -444,7 +444,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "05",
+        "category_id": "5",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -461,7 +461,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "05",
+        "category_id": "5",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -478,7 +478,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "05",
+        "category_id": "5",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -495,7 +495,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "05",
+        "category_id": "5",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -512,7 +512,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "06",
+        "category_id": "6",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -529,7 +529,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "06",
+        "category_id": "6",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -546,7 +546,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "06",
+        "category_id": "6",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -563,7 +563,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "06",
+        "category_id": "6",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -580,7 +580,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "06",
+        "category_id": "6",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -597,7 +597,7 @@
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "06",
+        "category_id": "6",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
